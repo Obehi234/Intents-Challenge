@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Juuris Intents Challenge2</string>
+    <string name="contacts_app">Contacts App</string>
+    <string name="create_new_contact">Create new contact</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="please_enter_phone_number">Please enter phone number</string>
+    <string name="please_enter_web_address">Please enter web address</string>
+    <string name="please_enter_your_location">Please enter your location</string>
+    <string name="yellowface">YellowFace</string>
+    <string name="green_happy_face">Green happy face</string>
+    <string name="red_sad_face">Red Sad face</string>
+    <string name="phone_icon">Phone Icon</string>
+    <string name="create_contact">Create new contact</string>
+    <string name="location_pin">location pin</string>
+    <string name="calender">calender</string>
+    <string name="face_emoji">face emoji</string>
+</resources>
